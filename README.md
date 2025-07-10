@@ -3,8 +3,6 @@ Differential expression analysis of an Affymetrix gastric cancer dataset [GSE333
 Includes outlier detection, statistical testing, principal component analysis, linear discriminant analysis, and discriminant gene mapping.
 
 ## Repo Structure
-
-## Repo Structure
 ```
 ├── data/                                       # Raw data files (e.g., platform annotation)  
 │   └── GPL5175.soft.gz.zip  
