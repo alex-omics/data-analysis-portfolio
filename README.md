@@ -91,7 +91,8 @@ BiocManager::install(c("GEOquery", "limma"))
 
 ## Author
 
-Alex Arvanitis
-email: alexarvani83@gmail.com
-GitHub: alex-omics
+- **Name**: Alex Arvanitis  
+- **Email**: [alexarvani83@gmail.com](mailto:alexarvani83@gmail.com)  
+- **GitHub**: [alex-omics](https://github.com/alex-omics)
+
 
