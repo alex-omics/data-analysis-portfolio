@@ -4,22 +4,25 @@ Includes outlier detection, statistical testing, principal component analysis, l
 
 ## Repo Structure
 
-├── data/                                           # Raw data files (e.g., platform annotation)
-│ └── GPL5175.soft.gz.zip
-├── scripts/                                        # R analysis scripts
-│ └── gastric_cancer_microarray_analysis.R
-├── results/                                        # Output data (discriminant genes)
-│ └── top_and_bottom_5_genes.png
-├── plots/                                          # Figures generated from the analysis
-│ ├── average_correlation.png
-│ ├── correlation_matrix.png
-│ ├── cv_vs_mean.png
-│ ├── dual_filter_results.png
-│ ├── hierarchical_clustering.png
-│ ├── linear_discriminant.png
-│ ├── pca.png
-│ └── scree_plot.png
-└── README.md                                       # Project overview
+## Repo Structure
+```
+├── data/                           # Raw data files (e.g., platform annotation)  
+│   └── GPL5175.soft.gz.zip  
+├── scripts/                        # R analysis scripts  
+│   └── gastric_cancer_microarray_analysis.R  
+├── results/                        # Output data (discriminant genes)  
+│   └── top_and_bottom_5_genes.png  
+├── plots/                          # Figures generated from the analysis  
+│   ├── average_correlation.png  
+│   ├── correlation_matrix.png  
+│   ├── cv_vs_mean.png  
+│   ├── dual_filter_results.png  
+│   ├── hierarchical_clustering.png  
+│   ├── linear_discriminant.png  
+│   ├── pca.png  
+│   └── scree_plot.png  
+└── README.md                       # Project overview  
+```
 
 ## Project Goals
 
